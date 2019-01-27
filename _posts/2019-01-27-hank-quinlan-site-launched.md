@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Travis DeWolf Launches Site"
 date: 2019-01-27
 ---
 
